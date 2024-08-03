@@ -8,7 +8,7 @@
 
  */
 
-public class Pgm14 {
+public class Pattern14 {
     public static void main(String[] args) {
         int n = 5;
         for (int i = 1; i <= n; i++) {
