@@ -13,7 +13,7 @@ A B
 A B C D
  */
 
-public class Pgm21 {
+public class Pattern21 {
     public static void main(String[] args) {
         char k = 'A';
         for (char i = 'A'; i <= 'E'; i++) {
