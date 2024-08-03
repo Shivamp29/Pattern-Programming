@@ -6,7 +6,7 @@
         * * * * *
  */
 
-public class Pgm12 {
+public class Pattern12 {
     public static void main(String[] args) {
         int n = 5;
         for (int i = 1; i <= n; i++) {
