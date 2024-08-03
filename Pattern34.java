@@ -7,7 +7,7 @@
  * 1 2 3 4 5 *
  * 
  */
-public class Pgm34 {
+public class Pattern34 {
 
     public static void main(String[] args) {
         int n = 5;
