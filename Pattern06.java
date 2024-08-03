@@ -9,7 +9,7 @@
 
  */
 
-public class Pgm6 {
+public class Pattern06 {
     public static void main(String[] args) {
 
         int n = 5;
