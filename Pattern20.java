@@ -8,7 +8,7 @@ A B C D E
 
  */
 
-public class Pgm20 {
+public class Pattern20 {
     public static void main(String[] args) {
 
         for (char i = 'A'; i <= 'E'; i++) {
