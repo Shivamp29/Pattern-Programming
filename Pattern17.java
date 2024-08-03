@@ -5,7 +5,7 @@
  * 7 8 9 10
  */
 
-public class Pgm17 {
+public class Pattern17 {
     public static void main(String[] args) {
         int n = 4;
         int k = 1;
